@@ -10,7 +10,9 @@
 
 ### (Centos)
 Baslatma: ./run-flask.sh flask sunucusunu arka planda baslatir, process id yi save_pid.txt içerisine kaydeder.
+
 Durdurma:./stop-flask.sh save_pid.txt den flask server process id sini alir ve durdurur.
+
 Restart: ./restart-flask.sh aktif serverin kodlarda degisiklik yapildiginda serveri yeniden baslatir.
 
 ## API 
