@@ -8,7 +8,10 @@
 4) Yeni bir mail sunucusu kullanilacaksa encrypt_credentials.py ile mail sunucusu bilgileri sifrelenebilir.
 
 
-## Kullanim (Centos)
+### (Centos)
 Baslatma: ./run-flask.sh flask sunucusunu arka planda baslatir, process id yi save_pid.txt içerisine kaydeder.
 Durdurma:./stop-flask.sh save_pid.txt den flask server process id sini alir ve durdurur.
 Restart: ./restart-flask.sh aktif serverin kodlarda degisiklik yapildiginda serveri yeniden baslatir.
+
+## API 
+https://documenter.getpostman.com/view/12485464/TzK2YYVP
