@@ -1,4 +1,5 @@
 # ip-analyzer
+Belirtilen ip adresinin çeşitli sorgulara yanıt verip vermediğini analiz etmek için kullanılabilir. Dns Recursion, LDAP, SMB, NTP, SSDP sorguları ve belirtilen portların açık olup olmadığı kontrol edilebilir.
 
 ## Kurulum
 
